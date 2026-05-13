@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+cache/
+input_pdfs/
+output/
+error_report/
+excel_merged/
